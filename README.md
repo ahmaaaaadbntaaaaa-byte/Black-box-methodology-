@@ -27,11 +27,10 @@ The proposed approach requires companies to establish an internal compliance lay
 Detailed article-by-article translation with full technical implementation is available upon request.
 
 ---
+## Contents
 
-## Citation
+| File | Description |
+|------|-------------|
+| `Black-box- methodology .pdf` | Full research paper and core compliance framework (English) |
 
-> Hassan, A. Q. M. (2026). *Black Box Methodology for Technical Compliance with the EU AI Act*. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
-
----
-
-© 2026 Ahmad Qasim Mohammad Hassan. Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+> **Important Note:** Complete technical and legal article-by-article translations, covering every specific section and paragraph of the EU AI Act, are available from the author upon request.
