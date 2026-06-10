@@ -17,16 +17,6 @@ The proposed approach requires companies to establish an internal compliance lay
 **Regulation (EU) 2024/1689 — Articles 5, 9–15, 50, 53, 55**
 
 ---
-
-## Contents
-
-| File | Description |
-|------|-------------|
-| `Black_Box_Compliance_Methodology_EU_AI_Act.docx` | Full paper (English) |
-
-Detailed article-by-article translation with full technical implementation is available upon request.
-
----
 ## Contents
 
 | File | Description |
