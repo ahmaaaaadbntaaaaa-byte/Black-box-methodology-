@@ -1,4 +1,4 @@
-# منهجية الصندوق الأسود للامتثال التقني
+
 ### Black Box Methodology for Technical Compliance with the EU AI Act
 
 **Ahmad Qasim Mohammad Hassan**  
@@ -35,4 +35,3 @@ Detailed article-by-article translation with full technical implementation is av
 ---
 
 © 2026 Ahmad Qasim Mohammad Hassan. Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
-
