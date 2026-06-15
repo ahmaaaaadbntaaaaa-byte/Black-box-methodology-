@@ -5,21 +5,17 @@
 
 ![ORCID](https://img.shields.io/badge/ORCID-0009--0001--4360--0802-brightgreen?logo=orcid)
 
-](https://orcid.org/0009-0001-4360-0802)
-[
+](https://orcid.org/0009-0001-4360-0802) [
 
 ![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey?logo=creativecommons)
 
-](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-
-[
+](https://creativecommons.org/licenses/by-nc-nd/4.0/) [
 
 ![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20625257-blue?logo=zenodo)
 
-](https://doi.org/10.5281/zenodo.20625257)
-[
+](https://doi.org/10.5281/zenodo.20625257) [
 
-![Compliance Portal](https://img.shields.io/badge/Compliance%20Portal-Live-brightgreen?logo=replit)
+![Compliance Portal](https://img.shields.io/badge/Compliance%20Portal-Live-brightgreen)
 
 ](https://black-box-methodology--zoeharris3765.replit.app)
 
