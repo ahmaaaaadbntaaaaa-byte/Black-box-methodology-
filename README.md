@@ -1,6 +1,6 @@
 ### Black Box Methodology for Technical Compliance with the EU AI Act
 
-**Ahmad Qasim Mohammad Hassan**  
+**Ahmad Qasim Mohammad Hassan**
 [
 
 ![ORCID](https://img.shields.io/badge/ORCID-0009--0001--4360--0802-brightgreen?logo=orcid)
