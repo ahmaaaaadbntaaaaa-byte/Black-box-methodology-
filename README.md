@@ -19,10 +19,38 @@ The proposed approach requires companies to establish an internal compliance lay
 
 ---
 
-## Contents
+## Licensed Deliverables
 
-| File | Description |
+The complete article-by-article technical translation — every paragraph of Articles 5, 9–15, 50, 53, and 55 mapped to a technically verifiable requirement with a peer-reviewed scientific basis — has been fully completed and is available for licensing.
+
+| Deliverable | Description |
 | :--- | :--- |
-| `Black-box-methodology.pdf` | Full research paper and core compliance framework (English) |
+| **Technical Translation** | Full article-by-article translation of legal provisions into verifiable technical requirements, grounded in peer-reviewed literature (ACM, IEEE, ISO, NIST). |
+| **Implementation Architecture** | Conceptual four-layer enforcement architecture (interception, rule engine, behavioral monitor, immutable audit) illustrating technical feasibility — provided for expert review and engineering implementation. |
 
-> **Important Note:** Complete technical and legal article-by-article translations, covering every specific section and paragraph of the EU AI Act, are available from the author upon request.
+> **Licensing:** Institutions, regulators, and organisations building AI compliance infrastructure can select the relevant articles for their sector through the live Compliance Portal, or request licensing terms directly from the author.
+
+---
+
+## Compliance Portal
+
+[![Compliance Portal](https://img.shields.io/badge/Compliance%20Portal-Live-brightgreen)](https://black-box-methodology--zoeharris3765.replit.app)
+
+The portal allows organisations to filter the methodology by institutional sector (LegalTech, Healthcare AI, Financial Services, HR & Recruitment, Autonomous Vehicles, GPAI Providers, and others) and request licensing for the specific articles relevant to their systems.
+
+---
+
+## Scientific Basis
+
+The methodology translates ten articles of the EU AI Act into technically verifiable requirements grounded in 68 peer-reviewed references and verified standards from ACM, IEEE, ISO, NIST, Oxford, Harvard, Stanford CRFM, Anthropic, Nature, and Science Advances.
+
+---
+
+## Author
+
+**Ahmad Qasim Mohammad Hassan**
+Independent Security Researcher
+
+[LinkedIn](https://www.linkedin.com/) · [ORCID](https://orcid.org/0009-0001-4360-0802)
+
+© 2026 Ahmad Qasim Mohammad Hassan. Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
